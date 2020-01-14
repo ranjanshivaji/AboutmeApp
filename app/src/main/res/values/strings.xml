@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name">Ranjan Shivaji</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio" >Hi, my name is Ranjan Shivaji
+        \n\n i love F1
+        \n\n Understanding of ARM Architecture, its various features and experience in chip Bring
+        \n\nup and Familiarity with FreeRTOS
+        \n\nand Technologies relating Containers, developed personal mini project using 8051/PIC
+        \nmicrocontrollers for improved
+        \n\nbasic understanding of controllers and low speed interfaces like I2C and USART. As part
+        \n\nof Formula Student team for 3
+        \nyears with crucial experience in working as a team and leading it with good
+        \n\ncommunication skills and Problem solving
+        \n\nattitude. Developed a College Robotics club and a Robocon team for Competitive events
+        \nwhich is based on complex
+        \n\nthemes. Good grasp on embedded systems language C/C++.
+        \nwith python for backend and also well versed with Kotlin
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done_button">Done</string>
+</resources>
